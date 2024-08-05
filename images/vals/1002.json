@@ -1,0 +1,192 @@
+{
+   "markResult": {
+      "type": "FeatureCollection",
+      "features": [
+         {
+            "type": "Feature",
+            "geometry": {
+               "type": "Point",
+               "coordinates": [
+                  717.0,
+                  350.0
+               ]
+            },
+            "properties": {
+               "formData": {
+                  "prifixId": 1,
+                  "id": 1,
+                  "pointType": 0
+               }
+            },
+            "title": "1-1"
+         },
+         {
+            "type": "Feature",
+            "geometry": {
+               "type": "Point",
+               "coordinates": [
+                  733.0,
+                  381.0
+               ]
+            },
+            "properties": {
+               "formData": {
+                  "prifixId": 1,
+                  "id": 2,
+                  "pointType": 0
+               }
+            },
+            "title": "1-2"
+         },
+         {
+            "type": "Feature",
+            "geometry": {
+               "type": "Point",
+               "coordinates": [
+                  782.0,
+                  435.0
+               ]
+            },
+            "properties": {
+               "formData": {
+                  "prifixId": 1,
+                  "id": 3,
+                  "pointType": 0
+               }
+            },
+            "title": "1-3"
+         },
+         {
+            "type": "Feature",
+            "geometry": {
+               "type": "Point",
+               "coordinates": [
+                  823.0,
+                  441.0
+               ]
+            },
+            "properties": {
+               "formData": {
+                  "prifixId": 1,
+                  "id": 4,
+                  "pointType": 0
+               }
+            },
+            "title": "1-4"
+         },
+         {
+            "type": "Feature",
+            "geometry": {
+               "type": "Point",
+               "coordinates": [
+                  887.0,
+                  437.0
+               ]
+            },
+            "properties": {
+               "formData": {
+                  "prifixId": 1,
+                  "id": 5,
+                  "pointType": 0
+               }
+            },
+            "title": "1-5"
+         },
+         {
+            "type": "Feature",
+            "geometry": {
+               "type": "Point",
+               "coordinates": [
+                  845.0,
+                  367.0
+               ]
+            },
+            "properties": {
+               "formData": {
+                  "prifixId": 1,
+                  "id": 6,
+                  "pointType": 0
+               }
+            },
+            "title": "1-6"
+         },
+         {
+            "type": "Feature",
+            "geometry": {
+               "type": "Point",
+               "coordinates": [
+                  893.0,
+                  349.0
+               ]
+            },
+            "properties": {
+               "formData": {
+                  "prifixId": 1,
+                  "id": 7,
+                  "pointType": 0
+               }
+            },
+            "title": "1-7"
+         },
+         {
+            "type": "Feature",
+            "geometry": {
+               "type": "Point",
+               "coordinates": [
+                  962.0,
+                  349.0
+               ]
+            },
+            "properties": {
+               "formData": {
+                  "prifixId": 1,
+                  "id": 8,
+                  "pointType": 0
+               }
+            },
+            "title": "1-8"
+         },
+         {
+            "type": "Feature",
+            "geometry": {
+               "type": "Point",
+               "coordinates": [
+                  1001.0,
+                  371.0
+               ]
+            },
+            "properties": {
+               "formData": {
+                  "prifixId": 1,
+                  "id": 9,
+                  "pointType": 0
+               }
+            },
+            "title": "1-9"
+         },
+         {
+            "type": "Feature",
+            "geometry": {
+               "type": "Point",
+               "coordinates": [
+                  1009.0,
+                  417.0
+               ]
+            },
+            "properties": {
+               "formData": {
+                  "prifixId": 1,
+                  "id": 10,
+                  "pointType": 0
+               }
+            },
+            "title": "1-10"
+         }
+      ]
+   },
+   "property": "",
+   "options": {
+      "imgWidth": 1280,
+      "imgHeight": 720
+   }
+}
